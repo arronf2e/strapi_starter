@@ -1,9 +1,9 @@
 {
-  "name": "my-project",
+  "name": "strapi_go",
   "repository": {
     "type": "git",
     "url": "https://github.com/arronf2e/strapi_starter"
-  }
+  },
   "version": "0.1.0",
   "description": "A Strapi application",
   "scripts": {
